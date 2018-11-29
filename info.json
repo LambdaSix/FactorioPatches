@@ -1,0 +1,9 @@
+{
+  "name":"factorio-patches",
+  "version":"0.0.1",
+  "title":"SoupDragon's Factorio Patches",
+  "author":"lambdasix",
+  "description":"Adds compatiability between a few mods",
+  "factorio_version":"0.16",
+  "dependencies":["base","aai-industry","pycoalprocessing"]
+}
