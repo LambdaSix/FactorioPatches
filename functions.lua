@@ -2,6 +2,8 @@ industry = {}
 
 industry.techs = {}
 
+-- Support between AAI and PyCoals for Science Pack 0
+
 function industry.add_tech(tech)
     industry.techs[tech]={name=tech}
 end

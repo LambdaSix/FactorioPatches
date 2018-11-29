@@ -5,5 +5,5 @@
   "author":"lambdasix",
   "description":"Adds compatiability between a few mods",
   "factorio_version":"0.16",
-  "dependencies":["base","aai-industry","pycoalprocessing"]
+  "dependencies":["base","?aai-industry","?pycoalprocessing"]
 }
